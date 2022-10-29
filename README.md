@@ -1,21 +1,8 @@
 # Inventory_Bpr
 
-Load Mpdf
-1. Download Mpdf with composer
-2. Composer command "composer require mpdf/mpdf"
+Aplikasi Sistem Inventory Barang Masuk & Keluar di PT. BPR Kandimadu Arta.
 
-Framework used : Codeigniter 3.1.11
-
-CSS Template : SB Admin 2
-
-JS : jquery, ajax
-
-plugin js :
-
-- SweatAlert2
-- Datepicker
-- Datatable
-- Chosen
+Aplikasi yang dibangun menggunakan framework CodeIgniter untuk memenuhi kebutuhan user di sebuah perusahaan perbankan.
 
 features:
 
