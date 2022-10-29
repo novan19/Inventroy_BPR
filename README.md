@@ -1,4 +1,4 @@
-# Inventoryweb-ci3
+# Inventory_Bpr
 
 Load Mpdf
 1. Download Mpdf with composer
